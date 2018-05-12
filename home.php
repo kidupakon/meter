@@ -1,1 +1,7 @@
-<?php ?>
+<!DOCTYPE html>
+
+<?php 
+
+
+
+?>
