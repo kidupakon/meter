@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>This is a power consumption website</h1>
+	<p>Test paragraph</p>
 
 	<fieldset>
 		<form action="./functions/actions.php" method="post">
